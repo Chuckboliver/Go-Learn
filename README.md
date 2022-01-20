@@ -1,2 +1,4 @@
-# test
-test
+# Go Learn
+
+* Cobra
+* Promptui
